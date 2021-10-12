@@ -30,4 +30,4 @@ This is created using HTML , CSS and JS
 
 # Visit
 
-go to [button animation](https://button-animation.netlify.com) and visit
+go to [button animation](https://button-animation-tadeesha.netlify.app) and visit
